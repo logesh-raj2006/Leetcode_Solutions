@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -43,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
