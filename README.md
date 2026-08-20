@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/logesh-raj2006/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
